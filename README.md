@@ -19,6 +19,10 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### My contacts
+Telegram - @no_name628
+Email - message.chaos628@gmail.com
 <!--
 **Arduinum/Arduinum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
