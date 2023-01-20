@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi wave I'm a Python programmer
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <!--
 **Arduinum/Arduinum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
