@@ -22,11 +22,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### My contacts
-Telegram - @no_name628
-
-Email - message.chaos628@gmail.com
-
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arduinum&theme=dark&background=000000)](https://git.io/streak-stats)
 
