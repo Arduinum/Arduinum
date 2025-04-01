@@ -1,3 +1,7 @@
+### My contacts
+Telegram: @arduinum628
+email: arduinum628@gmail.com
+
 ### Technology stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
