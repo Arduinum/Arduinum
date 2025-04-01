@@ -1,7 +1,7 @@
 ### My contacts
 
-Telegram: @arduinum628
-email: arduinum628@gmail.com
+- Telegram: @arduinum628
+- email: arduinum628@gmail.com
 
 ### Technology stack
 
