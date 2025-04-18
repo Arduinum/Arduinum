@@ -2,6 +2,7 @@
 
 - Telegram: @arduinum628
 - email: arduinum628@gmail.com
+- Хабр: <a href="https://habr.com/ru/users/Arduinum/">Arduinum</a>
 
 ### Portfolio
 
