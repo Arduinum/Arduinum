@@ -27,6 +27,49 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+<table>
+  <tr>
+    <th>Название</th>
+    <th>Описание</th>
+    <th>Стек</th>
+	<th>Тип</th>
+	<th>Организация</th>
+	<th>Ссылка</th>
+  </tr>
+  <tr>
+    <td>Kawai.Focus</td>
+    <td>Kawai.Focus — приложение для фокусировки внимания на основе таймера Pomodoro.</td>
+    <td><code>Python</code>, <code>Poetry</code>, <code>Kivy</code></td>
+    <td>Open-source</td>
+    <td><a href="https://pressanybutton.ru/">Код на салфетке</a></td>
+    <td><a href="https://github.com/Arduinum/kawai-focus">kawai-focus</a></td>
+  </tr>
+  <tr>
+    <td>Личный блог Arduinum628</td>
+    <td>Cайт blog.arduinum628 посвящён написанию статей по робототехнике и программированию.</td>
+    <td><code>Django</code>, <code>Python</code>, <code>PostgreSQL</code>, <code>HTML</code>, <code>CSS</code>, <code>JS</code></td>
+    <td>Pet project</td>
+    <td>For me</td>
+    <td><a href="https://blog.arduinum628.ru">blog.arduinum628.ru</a></td>
+  </tr>
+  <tr>
+    <td>LAPA</td>
+    <td>LAPA — платформа для обучения языкам программирования онлайн.</td>
+    <td><code>Django</code>, <code>Python</code>, <code>PostgreSQL</code>, <code>Docker</code>, <code>Vue</code></td>
+    <td>Internship project for a client</td>
+    <td><a href="https://lad-academy.ru/main">Lad-academy</a></td>
+    <td><a href="https://lapa.lad-academy.ru/">lapa.lad-academy.ru</a></td>
+  </tr>
+  <tr>
+    <td>SkillsTrack</td>
+    <td>SkillsTrack, — веб-сервис ориентированный на помощь в организации образовательных процессов внутри компаний.</td>
+    <td><code>Django</code>, <code>Python</code>, <code>PostgreSQL</code>, <code>Docker</code>, <code>React</code></td>
+    <td>Coursework</td>
+    <td><a href="https://gb.ru/">GeekBrains</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1qgGHvM_704x80FUbnuYdSSZzGObrJxss/edit?usp=sharing&ouid=107823090748547121203&rtpof=true&sd=true">Презентация</a>, <a href="https://drive.google.com/file/d/15XMQJPrGcMiat2U8BHoJA_SZtWEWhDhh/view?usp=sharing">Демо</a></td>
+  </tr>
+</table>
+
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arduinum&theme=dark&background=000000)](https://git.io/streak-stats)
