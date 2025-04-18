@@ -21,7 +21,7 @@
     <td><code>Python</code>, <code>Poetry</code>, <code>Kivy</code></td>
     <td>Open-source</td>
     <td><a href="https://pressanybutton.ru/">Код на салфетке</a></td>
-    <td><a href="https://github.com/Arduinum/kawai-focus">kawai-focus</a></td>
+    <td><a href="https://github.com/Arduinum/kawai-focus">kawai-focus</a>, <a href="https://pressanybutton.ru/category/kawai-focus/">Статьи kawai-focus</a></td>
   </tr>
   <tr>
     <td>Личный блог Arduinum628</td>
