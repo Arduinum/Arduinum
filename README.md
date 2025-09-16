@@ -1,6 +1,7 @@
 ### My contacts
 
 - Telegram: @arduinum628
+- Мой telegram канал о программировании и роботах: @blog_arduinum628 
 - email: arduinum628@gmail.com
 - Хабр: <a href="https://habr.com/ru/users/Arduinum/">Arduinum</a>
 
@@ -14,6 +15,22 @@
 	<th>Тип</th>
 	<th>Организация</th>
 	<th>Ссылка</th>
+  </tr>
+  <tr>
+    <td>Web-robot-conrol</td>
+    <td>Web-robot-conrol - веб-приложение для управлением роботом и трансляции видео с веб-камеры. Создаётся для блога FirstVDS и в качестве open source проекта.</td>
+    <td><code>Python</code>, <code>Poetry</code>, <code>FastApi</code> <code>Websocket</code></td>
+    <td>Open-source</td>
+    <td><a href="https://habr.com/ru/companies/first/articles/">Блог компании FirstVDS</a></td>
+    <td><a href="https://github.com/Arduinum/web-robot-control">web-robot-control</a>, <a href="https://habr.com/ru/companies/first/articles/907394/">Первая статья о веб-приложении на Habr</a></td>
+  </tr>
+  <tr>
+    <td>Robot-pi-service</td>
+    <td>Robot-pi-service - сервис для управления роботом на orange pi, работающий на linux Armbian. Создаётся для блога FirstVDS и в качестве open source проекта. Взаимодействует с Web-robot-conrol по Websockets.</td>
+    <td><code>Python</code>, <code>Venv</code>, <code>Websocket</code>, <code>Gpiod</code></td>
+    <td>Open-source</td>
+    <td><a href="https://habr.com/ru/companies/first/articles/">Блог компании FirstVDS</a></td>
+    <td><a href="https://github.com/Arduinum/robot-pi-service">robot-pi-service</a>, <a href="https://habr.com/ru/companies/first/articles/919060/">Первая статья о сервисе на Habr</a></td>
   </tr>
   <tr>
     <td>Kawai.Focus</td>
