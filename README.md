@@ -33,8 +33,8 @@
     <td><a href="https://github.com/Arduinum/robot-pi-service">robot-pi-service</a>, <a href="https://habr.com/ru/companies/first/articles/919060/">Первая статья о сервисе на Habr</a></td>
   </tr>
   <tr>
-    <td>Kawai.Focus</td>
-    <td>Kawai.Focus — приложение для фокусировки внимания на основе таймера Pomodoro.</td>
+    <td>Kawai-Focus</td>
+    <td>Kawai-Focus — приложение для фокусировки внимания на основе таймера Pomodoro.</td>
     <td><code>Python</code>, <code>Poetry</code>, <code>Kivy</code></td>
     <td>Open-source</td>
     <td><a href="https://pressanybutton.ru/">Код на салфетке</a></td>
