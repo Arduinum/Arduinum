@@ -1,7 +1,6 @@
 ### My contacts
 
-- Telegram: @arduinum628
-- Мой telegram канал о программировании и роботах: @blog_arduinum628 
+- Telegram: @arduinum628 
 - email: arduinum628@gmail.com
 - Хабр: <a href="https://habr.com/ru/users/Arduinum/">Arduinum</a>
 
