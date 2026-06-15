@@ -40,14 +40,6 @@
     <td><a href="https://github.com/Arduinum/kawai-focus">kawai-focus</a>, <a href="https://pressanybutton.ru/category/kawai-focus/">Статьи kawai-focus</a></td>
   </tr>
   <tr>
-    <td>Личный блог Arduinum628</td>
-    <td>Cайт blog.arduinum628 посвящён написанию статей по робототехнике и программированию.</td>
-    <td><code>Django</code>, <code>Python</code>, <code>PostgreSQL</code>, <code>HTML</code>, <code>CSS</code>, <code>JS</code></td>
-    <td>Pet project</td>
-    <td>For me</td>
-    <td><a href="https://blog.arduinum628.ru">blog.arduinum628.ru</a></td>
-  </tr>
-  <tr>
     <td>LAPA</td>
     <td>LAPA — платформа для обучения языкам программирования онлайн.</td>
     <td><code>Django</code>, <code>Python</code>, <code>PostgreSQL</code>, <code>Docker</code>, <code>Vue</code></td>
