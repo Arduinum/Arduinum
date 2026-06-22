@@ -36,6 +36,8 @@
     <td>Kawai-Focus — приложение для фокусировки внимания на основе таймера Pomodoro.</td>
     <td><code>Python</code>, <code>Poetry</code>, <code>Kivy</code></td>
     <td>Open-source</td>
+	<td></td>
+	<td></td>
   </tr>
   <tr>
     <td>LAPA</td>
