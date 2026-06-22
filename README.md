@@ -37,7 +37,7 @@
     <td><code>Python</code>, <code>Poetry</code>, <code>Kivy</code></td>
     <td>Open-source</td>
 	<td></td>
-	<td></td>
+	<td><td><a href="https://github.com/Arduinum/kawai-focus">kawai-focus</a></td>
   </tr>
   <tr>
     <td>LAPA</td>
