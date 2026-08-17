@@ -32,6 +32,14 @@
     <td><a href="https://github.com/Arduinum/robot-pi-service">robot-pi-service</a>, <a href="https://habr.com/ru/companies/first/articles/919060/">Первая статья о сервисе на Habr</a></td>
   </tr>
   <tr>
+	<td>Delivery s3 temporary links</td>
+	<td>Delivery s3 temporary links - сервис, выдающий временные ссылки для хранилища s3</td>
+	<td><td><code>Python</code>, <code>Uv</code>, <code>FastApi</code>, <code>Granian</code>, <code>Redis</code>, <code>Docker</code>, <code>Nginx</code></td></td>
+	<td>Open-source</td>
+    <td><a href="https://habr.com/ru/companies/first/articles/">Блог компании FirstVDS</a></td>
+	<td><a href="https://github.com/Arduinum/delivery_s3_temporary_links">delivery_s3_temporary_links</a>, <a href="https://habr.com/ru/companies/first/articles/1045476/">Первая статья о сервисе на Habr</a></td>
+  </tr>
+  <tr>
     <td>Kawai-Focus</td>
     <td>Kawai-Focus — приложение для фокусировки внимания на основе таймера Pomodoro.</td>
     <td><code>Python</code>, <code>Poetry</code>, <code>Kivy</code></td>
