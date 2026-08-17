@@ -47,14 +47,6 @@
     <td><a href="https://lad-academy.ru/main">Lad-academy</a></td>
     <td><a href="https://lapa.lad-academy.ru/">lapa.lad-academy.ru</a></td>
   </tr>
-  <tr>
-    <td>SkillsTrack</td>
-    <td>SkillsTrack, — веб-сервис ориентированный на помощь в организации образовательных процессов внутри компаний.</td>
-    <td><code>Django</code>, <code>Python</code>, <code>PostgreSQL</code>, <code>Docker</code>, <code>React</code></td>
-    <td>Coursework</td>
-    <td><a href="https://gb.ru/">GeekBrains</a></td>
-    <td><a href="https://docs.google.com/presentation/d/1qgGHvM_704x80FUbnuYdSSZzGObrJxss/edit?usp=sharing&ouid=107823090748547121203&rtpof=true&sd=true">Презентация</a>, <a href="https://drive.google.com/file/d/15XMQJPrGcMiat2U8BHoJA_SZtWEWhDhh/view?usp=sharing">Демо</a></td>
-  </tr>
 </table>
 
 ### Technology stack
@@ -80,23 +72,3 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arduinum&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arduinum&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
-<!--
-**Arduinum/Arduinum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
